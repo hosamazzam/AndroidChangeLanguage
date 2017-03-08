@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">مثال لتغير اللغة</string>
+    <string name="change">تغير الى  الانجليزية</string>
+    <string name="about">مشروع بسيط لتغيير اللغة فى التطبيق في وقت التشغيل</string>
+</resources>
