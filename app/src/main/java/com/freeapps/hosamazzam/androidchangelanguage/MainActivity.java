@@ -16,6 +16,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        getSupportActionBar().setTitle(R.string.app_name);
+
 
         findViewById(R.id.change).setOnClickListener(new View.OnClickListener() {
             @Override
